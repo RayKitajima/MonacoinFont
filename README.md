@@ -1,11 +1,11 @@
 
 # Font for Monacoin currency marks
 
-This is an iconic font for Monacoin currency marks.
+This is an iconic font for [Monacoin](http://monacoin.org) currency marks.
 
-*monacoinsign/* has font files, and css file to use the font on your web site.
+Directory [monacoinsign](https://github.com/RayKitajima/MonacoinFont/tree/master/monacoinsign) has font files, and css file to use the font on your web site.
 
-*svg/* has raw svg files.
+Directory [svg](https://github.com/RayKitajima/MonacoinFont/tree/master/svg) has raw svg files.
 
 ## How to use
 
