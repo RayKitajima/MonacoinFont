@@ -33,5 +33,5 @@ Public domain.
 
 ## Donation
 
-monacon: MUGUMm4EvFpMJKSsK1vNsdK6F6SJjtaEtM
+monacoin: MUGUMm4EvFpMJKSsK1vNsdK6F6SJjtaEtM
 
