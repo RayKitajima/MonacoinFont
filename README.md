@@ -23,6 +23,10 @@ After all, you can use iconic font by applying class name like this:
 <i class="icon-monacoinsign_bold"></i>
 ```
 
+## Example
+
+http://raykitajima.github.io/MonacoinFont/
+
 ## License
 
 Public domain.
