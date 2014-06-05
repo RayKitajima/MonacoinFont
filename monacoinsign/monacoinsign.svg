@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2014-6-4: Created.
+-->
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>
+Created by FontForge 20120731 at Wed Jun  4 05:32:17 2014
+ By Rei
+Created by Rei with FontForge 2.0 (http://fontforge.sf.net)
+</metadata>
+<defs>
+<font id="monacoinsign" horiz-adv-x="512" >
+  <font-face 
+    font-family="monacoinsign"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="512"
+    panose-1="2 0 6 9 0 0 0 0 0 0"
+    ascent="448"
+    descent="-64"
+    bbox="0 31.8311 512 448"
+    underline-thickness="25.6"
+    underline-position="-51.2"
+    unicode-range="U+F100-F101"
+  />
+    <missing-glyph />
+    <glyph glyph-name="uniF101" unicode="&#xf101;" 
+d="M99.8584 47.0947h-77.9717l17.6006 62.5752h-39.4873v26.4336h46.9922l3.91602 17.9482h-50.9082v26.4326h58.7412l74.5352 267.516h66.833l66.834 -267.27l66.833 267.27h66.834l111.39 -400.905h-77.9727l-66.833 267.27l-66.835 -267.27h-66.833l-66.834 267.27
+l-33.4727 -133.857l16.8955 -0.0214844v-26.4326h-23.4971l-4.56934 -17.9482h28.0654v-26.4336l-34.6885 0.00976562z" />
+    <glyph glyph-name="uniF100" unicode="&#xf100;" 
+d="M85.6719 31.8311h-40.6348l13.375 51.3008l-58.4121 -0.169922v27.4297h65.8633l16.4229 59.5967h-82.2861v27.0898h89.2275l67.5547 250.922h33.8623l86.6875 -346.412l87.3662 346.412h34.2012l113.101 -416.169h-40.9736l-89.0586 346.412l-86.6875 -346.412h-35.2168
+l-86.3496 346.412l-46.7295 -181.164h29.7988v-27.0898h-36.2324l-15.4072 -60.6133h51.6406v-26.751h-58.2441z" />
+  </font>
+</defs></svg>
